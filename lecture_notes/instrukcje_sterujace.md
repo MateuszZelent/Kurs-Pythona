@@ -124,11 +124,11 @@ lub drogą mailową :-).
 ### Zadania
 
 * zadania podstawowe
-  * [Weryfikacja adresu email](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/instrukcje_sterujace/weryfikacja_adresu_email.py)
-  * [Problem Collatza](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/instrukcje_sterujace/problem_collatza.py)
+  * [Weryfikacja adresu email](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/instrukcje_sterujace/weryfikacja_adresu_email.py)
+  * [Problem Collatza](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/instrukcje_sterujace/problem_collatza.py)
 
 
 * zadania dodatkowe
-  * [odległość napisów](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/instrukcje_sterujace/odleglosc_napisow.py)
-  * [pochodna arytmetyczna](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/instrukcje_sterujace/pochodna_arytmetyczna.py)
-  * [zlicz samogłoski](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/instrukcje_sterujace/zlicz_samogloski.py)
+  * [odległość napisów](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/instrukcje_sterujace/odleglosc_napisow.py)
+  * [pochodna arytmetyczna](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/instrukcje_sterujace/pochodna_arytmetyczna.py)
+  * [zlicz samogłoski](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/instrukcje_sterujace/zlicz_samogloski.py)

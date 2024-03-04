@@ -104,10 +104,10 @@ zamienić na własny kod. Powodzenia :-)!
 ## Zadania
 
 * zadania podstawowe
-  * [Symbol Newtona](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/funkcje/symbol_newtona.py)
+  * [Symbol Newtona](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/funkcje/symbol_newtona.py)
 
 
 * zadania dodatkowe
-  * [rok przestępny](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/funkcje/rok_przestepny.py)
-  * [cukierki](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/funkcje/cukierki.py)
-  * [sprawdź dzień](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/funkcje/sprawdz_dzien.py)
+  * [rok przestępny](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/funkcje/rok_przestepny.py)
+  * [cukierki](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/funkcje/cukierki.py)
+  * [sprawdź dzień](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/funkcje/sprawdz_dzien.py)

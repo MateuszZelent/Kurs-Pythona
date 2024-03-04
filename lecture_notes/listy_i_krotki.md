@@ -219,15 +219,15 @@ https://www.asmeurer.com/blog/posts/tuples/
 
 ## Przykłady
 
-[listy](https://gitlab.com/lhryniuk/python/blob/course/python-course/lecture_notes/examples_listy_i_krotki/listy.py)
+[listy](https://github.com/kkingstoun/Kurs-Pythona/blob/main/lecture_notes/examples_listy_i_krotki/listy.py)
 
 ## Zadania
 
 * zadania podstawowe
-  * [xor napisów](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/listy_i_krotki/xor_napisow.py)
-  * [podzielne](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/listy_i_krotki/podzielne.py)
+  * [xor napisów](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/listy_i_krotki/xor_napisow.py)
+  * [podzielne](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/listy_i_krotki/podzielne.py)
 
 
 * zadania dodatkowe
-  * [pola i obwody](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/listy_i_krotki/pola_obwody.py)
-  * [mnożenie macierzy](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/listy_i_krotki/mnozenie_macierzy.py)
+  * [pola i obwody](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/listy_i_krotki/pola_obwody.py)
+  * [mnożenie macierzy](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/listy_i_krotki/mnozenie_macierzy.py)

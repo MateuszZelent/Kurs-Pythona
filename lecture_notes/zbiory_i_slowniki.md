@@ -219,9 +219,9 @@ https://docs.python.org/3.4/library/stdtypes.html?highlight=set#set
 ## Zadania
 
 * zadania podstawowe
-  * [xor słowników](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/zbiory_i_slowniki/xor_slownikow.py)
-  * [usuwanie ogonków](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/zbiory_i_slowniki/usuwanie_ogonkow.py)
+  * [xor słowników](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/zbiory_i_slowniki/xor_slownikow.py)
+  * [usuwanie ogonków](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/zbiory_i_slowniki/usuwanie_ogonkow.py)
 
 
 * zadania dodatkowe
-  * [operacje na zbiorach](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/zbiory_i_slowniki/operacje_na_zbiorach.py)
+  * [operacje na zbiorach](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/zbiory_i_slowniki/operacje_na_zbiorach.py)

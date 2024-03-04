@@ -141,22 +141,22 @@ Poniżej znajdują się pliki, w których na przykłaach pokazano działanie wy�
 
 [zmienna typu complex](https://gitlab.com/lhryniuk/python/tree/master/python-course/examples_zmienne/complex.py)
 =======
-[zmienna typu int](https://gitlab.com/lhryniuk/python/blob/course/python-course/lecture_notes/examples_zmienne/int.py)
+[zmienna typu int](https://github.com/kkingstoun/Kurs-Pythona/blob/main/lecture_notes/examples_zmienne/int.py)
 
-[zmienna typu float](https://gitlab.com/lhryniuk/python/blob/course/python-course/lecture_notes/examples_zmienne/float.py)
+[zmienna typu float](https://github.com/kkingstoun/Kurs-Pythona/blob/main/lecture_notes/examples_zmienne/float.py)
 
-[zmienna typu str](https://gitlab.com/lhryniuk/python/blob/course/python-course/lecture_notes/examples_zmienne/str.py)
+[zmienna typu str](https://github.com/kkingstoun/Kurs-Pythona/blob/main/lecture_notes/examples_zmienne/str.py)
 
-[zmienna typu bool](https://gitlab.com/lhryniuk/python/blob/course/python-course/lecture_notes/examples_zmienne/bool.py)
+[zmienna typu bool](https://github.com/kkingstoun/Kurs-Pythona/blob/main/lecture_notes/examples_zmienne/bool.py)
 
-[zmienna typu complex](https://gitlab.com/lhryniuk/python/blob/course/python-course/lecture_notes/examples_zmienne/complex.py)
+[zmienna typu complex](https://github.com/kkingstoun/Kurs-Pythona/blob/main/lecture_notes/examples_zmienne/complex.py)
 
 ## Zadania
 
 * zadania podstawowe
-  * [posortuj trzy liczby](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/zmienne/sort_three_numbers.py)
-  * [ćwiartki płaszczyzny zespolonej](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/zmienne/complex_quadrants.py)
+  * [posortuj trzy liczby](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/zmienne/sort_three_numbers.py)
+  * [ćwiartki płaszczyzny zespolonej](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/zmienne/complex_quadrants.py)
 
 * zadania dodatkowe
-  * [binarne sprawdzanie nieparzystości](https://gitlab.com/lhryniuk/python/blob/course/python-course/exercises/zmienne/binary_odd_check.py)
+  * [binarne sprawdzanie nieparzystości](https://github.com/kkingstoun/Kurs-Pythona/blob/main/exercises/zmienne/binary_odd_check.py)
 >>>>>>> 9250fdf3a3810ae97dbf21caa8bbeeaa388ea13d
