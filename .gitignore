@@ -123,3 +123,5 @@ dmypy.json
 .ipynb_checkpoints
 .ipynb_checkpoints/
 Przygotowania/
+stringi-cwiczenia.py
+*Solutions.ipynb
